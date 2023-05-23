@@ -1,3 +1,6 @@
 홍길동 100
 김성신 90
 비와이 80
+Python
+Python
+Python is good
